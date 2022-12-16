@@ -1,4 +1,4 @@
-#Author: Sebastian Tampu(1004928572)
+#Author: Sebastian Tampu
 
 #The purpose of this code is to create a representation of 
 #Conway's "Game of Life" using random initial conditions.
